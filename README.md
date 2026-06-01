@@ -175,5 +175,5 @@ Some scripts include `START_IDX` and `END_IDX` variables. These were used to pro
 ## Author
 
 Irene Cuéllar Vázquez  
-Master in Health Data Science (MHEDAS)
+Master in Health Data Science (MHEDAS)  
 February - May 2026
